@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hi there Reiko here 👋
+🌱 I’m currently learning cross-platform mobile development with: React Native and Flutter. 
+<br>
+🔭 I’m currently developing a mobile app.
+<br><br>
+📫 How to reach me: <br>
+Twitter: @DeveloperReiko <br>
+E-mail: lukassgm@gmail.com <br>
++55 (68) 9 9913-4066
+<br><br>
+Sorocaba - São Paulo.
 <!--
 **Reiko-Developer/Reiko-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
