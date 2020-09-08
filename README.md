@@ -1,6 +1,6 @@
 ### Hi there, Reiko here 👋
 <br>🌱 Learning: <br>
-- Cross-platform mobile development with: React Native and Flutter.
+- Cross-platform development with Flutter.
 
 <br>🔭 Work: <br>
 * Currently developing a mobile app.
