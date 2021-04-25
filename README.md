@@ -14,7 +14,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Reiko-Developer.Reiko-Developer" alt="visitor badge"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reiko-Developer&&show_icons=true&theme=gruvbox"> </img>
+<img src="https://github-readme-stats.vercel.app/api?username=reiko-dev&&show_icons=true&theme=gruvbox"> </img>
 
 <p><a href="https://github.com/reiko-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/reiko_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a> 
