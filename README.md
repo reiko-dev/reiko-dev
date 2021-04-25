@@ -10,8 +10,6 @@
 * E-mail: lukassgm@gmail.com <br>
 * Phone: +55 (68) 9 9913-4066 <br>
 
-<br>Current location: Sorocaba - São Paulo.<br>
-
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Reiko-Developer.Reiko-Developer" alt="visitor badge"/>
 </p>
