@@ -6,9 +6,8 @@
 * Currently developing a Flutter mobile app.
 
 <br>📫 How to reach me: <br> 
-* Twitter: @DeveloperReiko <br>
-* E-mail: lukassgm@gmail.com <br>
-* Phone: +55 (68) 9 9913-4066 <br>
+* lukassgm@gmail.com <br>
+* +55 (68) 9 9913-4066 <br>
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Reiko-Developer.Reiko-Developer" alt="visitor badge"/>
