@@ -1,13 +1,20 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
-<p>Welcome, </br> I'm Vitor, Flutter developer from  <b>Acre, Brazil</b> <img src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1619363682~hmac=4840fb0d2312342cadc26f91cf361f9e" width="15"/>, currently living in <b>Sorocaba-SP, Brazil</b>. </p>
+<p>Welcome, </br> I'm Vitor, Flutter :blue_heart: developer from  <b>Acre, Brazil</b> <img src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1619363682~hmac=4840fb0d2312342cadc26f91cf361f9e" width="15"/>, currently living in <b>Sorocaba-SP, Brazil</b>. </p>
 
 <br>🔭 Work: <br>
-* Currently developing a Flutter mobile app.
+* Maintaining and improving my app: [Memory Game](https://play.google.com/store/apps/details?id=com.memory_game.by.reiko)
 
 <br>📫 How to reach me: <br> 
 * lukassgm@gmail.com <br>
 * +55 (68) 9 9913-4066 <br>
+
+:boom: Fun facts:
+
+* I love DFT drawing <3 
+* [DFT](https://www.youtube.com/watch?v=-qgreAUpPwM&ab_channel=3Blue1Brown) 
+
+
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Reiko-Developer.Reiko-Developer" alt="visitor badge"/>
