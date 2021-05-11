@@ -1,18 +1,28 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, you found me!</h2>
 
-<p>Welcome, </br> I'm Vitor, Flutter :blue_heart: developer from  <b>Acre, Brazil</b> <img src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1619363682~hmac=4840fb0d2312342cadc26f91cf361f9e" width="15"/>, currently living in <b>Sorocaba-SP, Brazil</b>. </p>
+<p>I'm Vitor, a Flutter developer :blue_heart: from Brazil <img src="https://user-images.githubusercontent.com/9553743/117826858-e0913680-b246-11eb-8a3b-85ada6a5c66b.png" width="15"/>, currently living in <b>São Paulo</b>. </p>
+<br>
 
-<br>🔭 Work: <br>
-* Maintaining and improving my app: [Memory Game](https://play.google.com/store/apps/details?id=com.memory_game.by.reiko)
+🔭 Work:
+* Maintaining and improving the app: [Memory Game](https://play.google.com/store/apps/details?id=com.memory_game.by.reiko)
+* Developing a Discrete Fourier Transform user drawing web application
+<br>
 
-<br>📫 How to reach me: <br> 
+:books: Learning:
+* Firebase
+<br>
+
+📫 How to reach me:
 * lukassgm@gmail.com <br>
 * +55 (68) 9 9913-4066 <br>
+<br>
 
-:boom: Fun facts:
+:zap: Fun facts:
+* I love DFT drawing <3
+* [DFT](https://www.youtube.com/watch?v=-qgreAUpPwM&ab_channel=3Blue1Brown)
 
-* I love DFT drawing <3 
-* [DFT](https://www.youtube.com/watch?v=-qgreAUpPwM&ab_channel=3Blue1Brown) 
+
+![fourier (1)](https://user-images.githubusercontent.com/9553743/117827435-5c8b7e80-b247-11eb-926c-41f1841cb579.gif)
 
 
 
