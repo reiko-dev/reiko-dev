@@ -18,6 +18,7 @@
 <br>
 
 :zap: Fun facts:
+* My Favorite film is Interstellar :milky_way:
 * I love DFT drawing <3
 * [DFT](https://www.youtube.com/watch?v=-qgreAUpPwM&ab_channel=3Blue1Brown)
 
