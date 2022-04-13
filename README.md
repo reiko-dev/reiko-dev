@@ -4,7 +4,7 @@
 <br>
 
 🔭 Work:
-* Maintaining and improving the app: [Memory Game](https://play.google.com/store/apps/details?id=com.memory_game.by.reiko)
+* Maintaining and improving the app: [Memory Game](https://play.google.com/apps/internaltest/4700176583213658727)
 * Developing a Discrete Fourier Transform user drawing web application
 <br>
 
