@@ -9,7 +9,10 @@
 <br>
 
 :books: Learning:
+* Flutter/Dart
+* Javascript
 * Firebase
+
 <br>
 
 📫 How to reach me:
