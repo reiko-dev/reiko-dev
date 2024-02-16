@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, you found me!</h2>
 
-<p>I'm Vitor, a Flutter developer :blue_heart: from Brazil <img src="https://user-images.githubusercontent.com/9553743/117826858-e0913680-b246-11eb-8a3b-85ada6a5c66b.png" width="15"/>, currently living in <b>São Paulo</b>. </p>
+<p>I'm Vitor, a Software Developer :blue_heart: from Brazil <img src="https://user-images.githubusercontent.com/9553743/117826858-e0913680-b246-11eb-8a3b-85ada6a5c66b.png" width="15"/></p>
 <br>
 
 🔭 Work:
